@@ -24,4 +24,5 @@ Up-to-Date: This repo is continuously updated with the latest interview question
 Interview-Oriented: Focuses on problems that are directly relevant to SDET roles, emphasizing problem-solving skills and coding knowledge required in the field of software testing.
 
 Contribution
-Feel free to contribute by suggesting new questions, you can reach me out on linkedin https://www.linkedin.com/in/rohitsrivastava12/) providing alternative solutions, or improving existing explanations!
+Feel free to contribute by suggesting new questions, roviding alternative solutions, or improving existing explanations!
+you can reach me out on linkedin :-https://www.linkedin.com/in/rohitsrivastava12/ 
