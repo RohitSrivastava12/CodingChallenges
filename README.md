@@ -1,4 +1,4 @@
-SDET Interview Preparation - One Stop Shop for Coding Questions
+SDET Coding Preparation - One Stop Shop for Coding Questions
 Welcome to the SDET Interview Preparation repository, Let's learn and grow together! 🚀
 
 This repository is designed to be your one-stop shop for all the coding questions you need to practice before appearing for an SDET interview. It contains popular coding questions frequently asked in SDET interviews, covering all key Data Structures and Algorithms (DSA) topics. The content will help you strengthen your coding skills and ace your SDET interview with confidence.
