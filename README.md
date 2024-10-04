@@ -12,7 +12,7 @@ Stacks and Queues
 Sorting and Searching Algorithms
 Hashing, and more.
 
-Solutions for each problem and you can reach me out on linkedin anytime without a second thought, if you get stuck anywhere , I will try to help you out, So start preparing and let's connect on linkedin to learn from each other :- https://www.linkedin.com/in/rohit-srivastava-84506b223/
+Solutions for each problem and you can reach me out on linkedin anytime without a second thought, if you get stuck anywhere , I will try to help you out, So start preparing and let's connect on linkedin to learn from each other :- https://www.linkedin.com/in/rohitsrivastava12/
 
 Code implementations in [Java].
 Regularly updated content to include new questions and patterns based on current interview trends.
@@ -24,4 +24,4 @@ Up-to-Date: This repo is continuously updated with the latest interview question
 Interview-Oriented: Focuses on problems that are directly relevant to SDET roles, emphasizing problem-solving skills and coding knowledge required in the field of software testing.
 
 Contribution
-Feel free to contribute by suggesting new questions, you can reach me out on linkedin (https://www.linkedin.com/in/rohit-srivastava-84506b223/) providing alternative solutions, or improving existing explanations!
+Feel free to contribute by suggesting new questions, you can reach me out on linkedin https://www.linkedin.com/in/rohitsrivastava12/) providing alternative solutions, or improving existing explanations!
