@@ -40,7 +40,8 @@ public class EasyArmstrongNumber {
 //
 //		Explanation of Sample Input 3 :
 //		1634 is an Armstrong number, as 1^4 + 6^4 + 3^4 + 4^4 = 1634
-
+		// Time Complexity:- O(log x)^2
+		// Space Complexity:- O(1)
 		int x = 103;
 		int n = x;
 		int check = x;
