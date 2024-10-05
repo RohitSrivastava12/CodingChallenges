@@ -26,7 +26,7 @@ public class MediumReverseNumber {
 		 * 
 		 * Constraints:
 		 * 
-		 * -231 <= x <= 231 - 1
+		 * -2^31 <= x <= 2^31 - 1
 		 */
 //Time Complexity:- O(log x)
 // Space Complexity:- O(1)
