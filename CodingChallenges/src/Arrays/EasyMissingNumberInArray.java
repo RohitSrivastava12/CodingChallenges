@@ -31,7 +31,8 @@ public class EasyMissingNumberInArray {
 //				1 <= n <= 104
 //				0 <= nums[i] <= n
 //				All the numbers of nums are unique.
-
+//Time Complexity: O(N)
+// Space complexity: O(1)
 		int nums[] = { 0, 1 };
 		int n = nums.length;
 		int sum = 0;
