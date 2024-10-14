@@ -7,6 +7,7 @@ public class EasyCountOccurenceOfVowels {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// Count the number of each vowels that has appeared in a string
 		// Time complexity: O(N)
 		// Space complexity: O(1)
 		String s = "My Name is Rohit Srivastava";
